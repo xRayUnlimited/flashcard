@@ -1,4 +1,4 @@
 
 $(document).ready(function (e) {
-    $(".card").flip(e);
+    $(".shoe").flip(e);
 })
